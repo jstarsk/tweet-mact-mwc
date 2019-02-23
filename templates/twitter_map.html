@@ -56,6 +56,8 @@
     let $_tweets_without_locations = {{_tweets_without_locations|safe}};
     let $_search_locations = {{_search_locations|safe}};
 
+    console.log($_search_locations);
+
 
     let map = new mapboxgl.Map({
         container: 'map',
@@ -126,7 +128,7 @@
                 "source": "_search_locations",
                 "layout": {
                     "icon-image": "rail-metro-15",
-                    "icon-size": 1,
+                    "icon-size": 1
                 }
             });
         }
