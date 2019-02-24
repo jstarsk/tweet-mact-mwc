@@ -112,10 +112,18 @@ def add_search_tweets_loc():
                 try:
                     coordinates_lon = float(row['LONGITUD'])
                     coordinates_lat = float(row['LATITUD'])
-                    coordinates_lat = float(row['LATITUD'])
                     counter_POS = int(row['counter_POS'])
                     counter_NEG = int(row['counter_NEG'])
+                    nor_counter_NEG = float(row['nor_counter_NEG'])
+                    nor_counter_POS = float(row['nor_counter_POS'])
+                    loc_range = 0.04
+                    opacity = 1
                     color = "#000000"
+
+                    _place = row['EQUIPAMENT']
+                    data2search = _place.split(" ")
+                    if "FGC" not in data2search and "(LO)" in data2search:
+                        pass
 
                     if counter_POS > counter_NEG:
                         color = '#FF0000'
@@ -124,18 +132,15 @@ def add_search_tweets_loc():
                     else:
                         color = '#FFFF00'
 
-
-
-                    loc_range = 0.04
-                    opacity = 1
-
                     point = Point((coordinates_lon, coordinates_lat))
                     properties_point = {
-                        'title': row['EQUIPAMENT'],
+                        'title': _place,
                         'diameter': loc_range,
                         'opacity': opacity,
                         'counter_POS': counter_POS,
                         'counter_NEG': counter_NEG,
+                        'nor_counter_NEG': nor_counter_NEG,
+                        'nor_counter_POS': nor_counter_POS,
                         '_color': color
                     }
 
