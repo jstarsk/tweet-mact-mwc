@@ -247,23 +247,26 @@ if __name__ == "__main__":
     current_time = current_time.split(" ")
 
     if current_time == current_time:
-        print("Algorithm is trigger at %s %s" % (current_time[0], current_time[1]))
-        print("--------------------------------------------------------------------------")
-        for index, row in interest_point.iterrows():
-            # print(list(df_interest_point.columns.values))
-            _coordinates = [row['LATITUD'], row['LONGITUD']]
-            _place = row['EQUIPAMENT']
-            data2search = _place.split(" ")
-            if "FGC" not in data2search and "(LO)" in data2search:
-                _search_radius = 1
-                print("Algorithm is searching at " + _place + " with a radius of search of " + str(
-                    _search_radius) + " km")
-                for topic in search_topics:
-                    tweets_data = fetched_tweets_by_hashtags(topic, 50, _coordinates, _search_radius)
-                    if tweets_data != [88]:
-                        create_data_base(db_folder, tweets_data, topic)
-                    else:
-                        print("Algorithm need to sleep for 15 min")
-                        print("==========================================================================")
-                        time.sleep(16 * 60)
+        try:
+            print("Algorithm is trigger at %s %s" % (current_time[0], current_time[1]))
+            print("--------------------------------------------------------------------------")
+            for index, row in interest_point.iterrows():
+                # print(list(df_interest_point.columns.values))
+                _coordinates = [row['LATITUD'], row['LONGITUD']]
+                _place = row['EQUIPAMENT']
+                data2search = _place.split(" ")
+                if "FGC" not in data2search and "(LO)" in data2search:
+                    _search_radius = 1
+                    print("Algorithm is searching at " + _place + " with a radius of search of " + str(
+                        _search_radius) + " km")
+                    for topic in search_topics:
+                        tweets_data = fetched_tweets_by_hashtags(topic, 50, _coordinates, _search_radius)
+                        if tweets_data != [88]:
+                            create_data_base(db_folder, tweets_data, topic)
+                        else:
+                            print("Algorithm need to sleep for 15 min")
+                            print("==========================================================================")
+                            time.sleep(16 * 60)
+        except Exception as e:
+            print(e)
 
