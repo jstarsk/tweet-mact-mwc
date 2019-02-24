@@ -10,3 +10,9 @@ search_topics = ["bcn", "barcelona", "Barcelona", "#MWC2019", "MWC2019", "mwc201
 
 
 ![Screenshot](screenshot.png)
+
+NEGATIVE
+![Screenshot](sample-1.png)
+
+POSITIVE
+![Screenshot](sample-2.png)
