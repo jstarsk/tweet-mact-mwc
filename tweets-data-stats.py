@@ -36,33 +36,33 @@ def sentiment_classifier_tweets():
 
                     if row['lang'] == "es":
                         score = round(clf.predict(row['text']), 3)
-                        if score < 0.5:
+                        if score < 0.3:
                             label = 'NEG'
-                        elif score > 0.5:
+                        elif score > 0.3:
                             label = 'POS'
                         else:
                             label = 'NEU'
                     elif row['lang'] == "ca":
                         score = round(clf.predict(row['text']), 3)
-                        if score < 0.5:
+                        if score < 0.3:
                             label = 'NEG'
-                        elif score > 0.5:
+                        elif score > 0.3:
                             label = 'POS'
                         else:
                             label = 'NEU'
                     elif row['lang'] == "en":
                         score = round(clf.predict(row['text']), 3)
-                        if score < 0.5:
+                        if score < 0.3:
                             label = 'NEG'
-                        elif score > 0.5:
+                        elif score > 0.3:
                             label = 'POS'
                         else:
                             label = 'NEU'
                     else:
                         score = round(clf.predict(row['text']), 3)
-                        if score < 0.5:
+                        if score < 0.3:
                             label = 'NEG'
-                        elif score > 0.5:
+                        elif score > 0.3:
                             label = 'POS'
                         else:
                             label = 'NEU'

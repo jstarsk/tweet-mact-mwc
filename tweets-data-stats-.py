@@ -42,8 +42,10 @@ def classifier_search_tweets_loc():
 
             for index, row in df.iterrows():
                 try:
-                    coordinates_lon = float(row['LONGITUD'])
-                    coordinates_lat = float(row['LATITUD'])
+                    str_coordinates_lon = str.split(str(row['LONGITUD']), ".")
+                    coordinates_lon = float("%s.%s" % (str_coordinates_lon[0], str_coordinates_lon[1][0:2]))
+                    str_coordinates_lat = str.split(str(row['LATITUD']), ".")
+                    coordinates_lat = float("%s.%s" % (str_coordinates_lat[0], str_coordinates_lat[1][0:2]))
 
                     _db_csv = dir_os_db(wdir="db", os_system=type_os)
 
@@ -56,28 +58,41 @@ def classifier_search_tweets_loc():
 
                             for _index, _row in _df.iterrows():
                                 try:
-                                    _coordinates_lon = float(_row['_search_loc_lon'])
-                                    _coordinates_lat = float(_row['_search_loc_lat'])
+                                    # _str_coordinates_lon = str.split(str(_row['_search_loc_lon']), ".")
+                                    # _coordinates_lon = float(
+                                    #     "%s.%s" % (_str_coordinates_lon[0], _str_coordinates_lon[1][0:2]))
+                                    # _str_coordinates_lat = str.split(str(_row['_search_loc_lat']), ".")
+                                    # _coordinates_lat = float(
+                                    #     "%s.%s" % (_str_coordinates_lat[0], _str_coordinates_lat[1][0:2]))
+                                    _float = 3
+                                    _coordinates_lon = round(float(_row['_search_loc_lon']), _float)
+                                    _coordinates_lat = round(float(_row['_search_loc_lat']), _float)
+                                    coordinates_lon = round(float(coordinates_lon), _float)
+                                    coordinates_lat = round(float(_coordinates_lat), _float)
 
-                                    if float(coordinates_lon) == float(_coordinates_lon) and \
-                                            float(coordinates_lat) == float(_coordinates_lat):
+                                    if coordinates_lon == _coordinates_lon and \
+                                            coordinates_lat == _coordinates_lat:
 
                                         if _row['label'] == "NEG":
                                             _counter_NEG += 1
                                         elif _row['label'] == "POS":
                                             _counter_POS += 1
                                 except Exception as e:
-                                    print(e, "-------")
+                                    # pass
+                                    print(e, "hello girlsssssss")
 
                         except Exception as e:
-                            print(e)
+                            pass
+                            # print(e)
 
-                    print("Counter | POS & NEG  ==> NEG: %d - POS: %d - Place: %s, " % (_counter_NEG, _counter_POS, row['EQUIPAMENT']))
+                    print("Counter | POS & NEG  ==> NEG: %d - POS: %d - Place: %s, " % (
+                        _counter_NEG, _counter_POS, row['EQUIPAMENT']))
                     list_counter_NEG.append(_counter_NEG)
                     list_counter_POS.append(_counter_POS)
 
                 except Exception as e:
-                    print("%s: this search tweets has not localization" % e)
+                    pass
+                    # print("%s: this search tweets has not localization" % e)
 
             series_counter_NEG = pd.Series(list_counter_NEG)
             series_counter_POS = pd.Series(list_counter_POS)
@@ -95,8 +110,14 @@ def classifier_search_tweets_loc():
             print(max_value)
 
             for index, row in df.iterrows():
-                nor_counter_NEG = int(normalize(int(row["counter_NEG"]), 0, max_value, 0, 100))
-                nor_counter_POS = int(normalize(int(row["counter_POS"]), 0, max_value, 0, 100))
+
+                try:
+                    nor_counter_NEG = int(normalize(int(row["counter_NEG"]), 0, max_value, 0, 100))
+                    nor_counter_POS = int(normalize(int(row["counter_POS"]), 0, max_value, 0, 100))
+                except Exception as e:
+                    nor_counter_NEG = 0
+                    nor_counter_POS = 0
+                    # print(e)
 
                 if nor_counter_NEG == 0 and nor_counter_POS == 0:
                     nor_counter_POS = 0
@@ -119,9 +140,10 @@ def classifier_search_tweets_loc():
 
 
         except Exception as e:
-            print(e)
+            pass
+            # print(e)
 
-    db_csv = dir_os_db(wdir="db", os_system=type_os)
+    dir_os_db(wdir="db", os_system=type_os)
 
     _tweets_with_locations = []
     _tweets_without_locations = []
