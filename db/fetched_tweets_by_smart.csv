@@ -1,4 +1,4 @@
-id,created_at,text,lang,coordinates_type,coordinates_lat,coordinates_lon,place_id,place_name,place_country_code,retweet_count,favorite_count,_search_string,_search_loc_lat,_search_loc_lon,_search_loc_range,label,sentiment_classifier_score
+id,created_at, user_id,text,lang,coordinates_type,coordinates_lat,coordinates_lon,place_id,place_name,place_country_code,retweet_count,favorite_count,_search_string,_search_loc_lat,_search_loc_lon,_search_loc_range,label
 Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.3851,2.1734,1,NEG,0.02
 Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.385557,2.163845,1,NEG,0.02
 Sat Feb 23 14:41:36 +0000 2019,15630634,@_aarongleeson In my luggage I have the excellent @Tractive GPS XL which has battery life of six weeks. On my backpï¿½ https://t.co/hxWNoQpKKc,en,None,None,None,37ded68f419372ee,None,ES,0,1,smart,41.309457,2.092745,1,NEG,0.144
@@ -9,3 +9,219 @@ Sat Feb 23 14:41:36 +0000 2019,15630634,@_aarongleeson In my luggage I have the 
 Fri Feb 22 19:15:55 +0000 2019,246556179,@ovans_es @AjuntamentSerra @AsociacionAUVE @AVVEinfo @Groupe_Renault @GVAivace @GVAparcs @MercedesBenz @smart_spainï¿½ https://t.co/a1PGqhHSpS,es,None,None,None,37ded68f419372ee,None,ES,1,3,smart,41.309457,2.092745,1,NEG,0.006
 Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.3851,2.1734,1,NEG,0.02
 Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.385557,2.163845,1,NEG,0.02
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.3851,2.1734,1,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.3851,2.1734,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.385557,2.163845,1,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.385557,2.163845,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 18:14:44 +0000 2019,19037711,NanoLock announces Flash-to-Cloud Micron Authenta Solutions - Live from #MWC19. Solution provides a unified approacï¿½ https://t.co/3Ml6f3cVIW,en,None,None,None,07d9e41f45c87000,None,ES,0,0,smart,41.35402,2.12874,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:39:05 +0000 2019,14151704,"Great to interview @ShuterRob at #MWC19 about @MTNGroup's financial inclusion plans. Smart, erudite and humble. https://t.co/50tD0RbJNU",en,None,None,None,07d9e41f45c87000,None,ES,1,10,smart,41.35402,2.12874,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:01:14 +0000 2019,1585,"What does it take to become a 26,000 person #startup? - - Customer obsession - - Data-driven - - Risk taking w/ smart expï¿½ https://t.co/kzN4HIB0P2",en,None,None,None,07d9e41f45c87000,None,ES,5,11,smart,41.35402,2.12874,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:44:25 +0000 2019,57588181,"We are demonstrating our 5G smart city services based on blockchain tech on @Intel booth at #MWC2019  , come to meeï¿½ https://t.co/iBlKX7sRp4",en,None,None,None,07d9f1f5a6c85000,None,ES,21,39,smart,41.35402,2.12874,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:38:51 +0000 2019,15630634,Brain surgery with scissors on the NTT DoCoMo booth. Yikes! Possibly more dangerous than a ï¿½Smart Cyber Operating Tï¿½ https://t.co/d9YR4VHdco,en,None,None,None,07d9e41f45c87000,None,ES,0,2,smart,41.35402,2.12874,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 13:38:31 +0000 2019,246910986,"Deutsche Telekom opens Campus Network,  a combination between public and private networks. ""A new era in the smartï¿½ https://t.co/7hUASML2wk",en,None,None,None,37ded68f419372ee,None,ES,0,0,smart,41.309457,2.092745,1,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 14:41:36 +0000 2019,15630634,@_aarongleeson In my luggage I have the excellent @Tractive GPS XL which has battery life of six weeks. On my backpï¿½ https://t.co/hxWNoQpKKc,en,None,None,None,37ded68f419372ee,None,ES,0,2,smart,41.309457,2.092745,1,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 19:15:55 +0000 2019,246556179,@ovans_es @AjuntamentSerra @AsociacionAUVE @AVVEinfo @Groupe_Renault @GVAivace @GVAparcs @MercedesBenz @smart_spainï¿½ https://t.co/a1PGqhHSpS,es,None,None,None,37ded68f419372ee,None,ES,1,3,smart,41.309457,2.092745,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.3872,2.168588,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.387706,2.168507,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 16 00:20:32 +0000 2019,18066264,Youï¿½d think an app launch party would be whack but I met/saw so many smart kind funny cool people and then alienateï¿½ https://t.co/EEE2XOb6zh,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,1,smart,41.387706,2.168507,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:41:14 +0000 2019,2541194262,@Melinda_DS Smart Fortwo 2022,en,None,None,None,1aca5ffbc553e95b,None,ES,0,2,smart,41.362977,2.100302,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:29:24 +0000 2019,1324169768,"ï¿½Miradas hacia la democracia: de ciudades industriales a Smart Citiesï¿½, esdeveniment previst pel 28 de febrer, quedï¿½ https://t.co/PGkpsBOzJZ",ca,None,None,None,1aca5ffbc553e95b,None,ES,0,0,smart,41.362977,2.100302,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 17:53:39 +0000 2019,15535595,"the entire pitch for HoloLens 2 is for enterprise customers, and Microsoftï¿½s brought a string of clients onstage toï¿½ https://t.co/yTckpyZf06",en,None,None,None,1aca5ffbc553e95b,None,ES,2,6,smart,41.362977,2.100302,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 17:42:46 +0000 2019,115522779,Im more impressed Microsoft figured out a smart way to SHOW mixed reality instead of looking at person randomly touï¿½ https://t.co/RiN59eloLw,en,None,None,None,1aca5ffbc553e95b,None,ES,0,9,smart,41.362977,2.100302,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 15:49:18 +0000 2019,832366926,"Quuppa provides a robust, scalable and affordable location platform built on the direction finding now standardizedï¿½ https://t.co/Diq1BUpu1W",en,None,None,None,1aca5ffbc553e95b,None,ES,2,4,smart,41.362977,2.100302,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.40018,2.179581,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 10:17:23 +0000 2019,148531061,We donï¿½t need more #smart #technology but more #smart #human #mweek https://t.co/0npqHsAhOp,en,None,None,None,07d9d38b5c088004,None,,0,1,smart,41.40018,2.179581,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 10:08:05 +0000 2019,258032124,"Trust the Russians to come up with the proper functional programming under the smart contracts and assets ï¿½ #Scala,ï¿½ https://t.co/VIQUSsAHeW",en,None,None,None,07d9cfe15c881000,None,ES,2,3,smart,41.40018,2.179581,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 09:56:38 +0000 2019,258032124,The Waves smart contract at #telekomwall #TLabsHACK https://t.co/pZxBJqBwVf,en,None,None,None,07d9cfe15c881000,None,ES,0,1,smart,41.40018,2.179581,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 19:03:25 +0000 2019,342298918,"Me reunï¿½ durante el #MWC19 con referentes de la plataforma ""Smart cities"" de Huawei, que lidera proyectos en mï¿½s deï¿½ https://t.co/MFwQg9Qrx6",es,None,None,None,1a27537478dd8e38,None,ES,4,10,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:54:18 +0000 2019,239757990,This week weï¿½re broadcasting each day from #MWC19 Barcelona on the #NextWave of industry futures. Hereï¿½s our firstï¿½ https://t.co/xIeiZY9aM3,en,None,None,None,1a27537478dd8e38,None,ES,0,3,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 13:35:49 +0000 2019,8.45391E+17,.@huawei internalizes what it sells for #digitaltransformation for its own smart campus #IoT #GIS #cloudï¿½ https://t.co/ZoHkYeTla2,en,None,None,None,1a27537478dd8e38,None,ES,3,3,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 13:21:28 +0000 2019,4909033241,Intelligent Connectivity @MWCapital #MWC2019 Smart Manufacturing brings Smart Products how we applied #IoEï¿½ https://t.co/nq1nggsdLF,en,None,None,None,1a27537478dd8e38,None,ES,1,1,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 11:18:15 +0000 2019,215938935,"ROSMIMANï¿½ Smart #Mobility: the new generation of smart #apps that adapt to simple and complex Maintenance needs, Faï¿½ https://t.co/vkIWbm9upR",en,None,None,None,1a27537478dd8e38,None,ES,1,2,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:53:38 +0000 2019,8.855E+17,@dirkslama from @BoschSI speaking on the @Trusted_IoT challenges at @GSMA MWC Barcelona right now. Learn more aboutï¿½ https://t.co/johO0mLeH3,en,None,None,None,1a27537478dd8e38,None,ES,1,3,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 17:26:21 +0000 2019,15100291,"After finishing the stand building, having a read in our safer smart home #MWC19Barcelona #mwc #computerbild https://t.co/ajpHSgE4gg",en,None,None,None,1a27537478dd8e38,None,ES,2,7,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 13:42:00 +0000 2019,9.49057E+17,"At Intel booth this week, we will be showing a PoC that illustrates the reach of 5G + MEC: direct communication forï¿½ https://t.co/McNby3JCn1",en,None,None,None,1a27537478dd8e38,None,ES,9,18,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 13:31:34 +0000 2019,19764998,Huawei's home/office 5G router with Wi-Fi 6 (802.11ax 4.8Gbps) support and HiLink protocols for smart homes. Max 5Gï¿½ https://t.co/oQ7VxOuoJU,en,None,None,None,1a27537478dd8e38,None,ES,2,2,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 10:49:53 +0000 2019,19764998,Finally Xiaomi has launched a smart LED bulb for ï¿½19.90 #MakeItHappen,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 10:48:17 +0000 2019,43496528,Altra Novitï¿½: arrivano anche le@ lampadine Smart - Xiaomi mi bulbs  - @ItaliaXiaomi  - #MWC2019 https://t.co/tyD3gSfMM5,it,None,None,None,1a27537478dd8e38,None,ES,0,2,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 09:45:32 +0000 2019,19764998,"Xiaomi is much more than a phone company. Wearables, e-scooters, electric toothbrushes, action cameras, dash cams,ï¿½ https://t.co/EEpIec1mlc",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sun Feb 24 08:47:18 +0000 2019,248687879,"""He actualizado mis zapatillas y ahora no se atan. Me han recomendado un hard reset"" -  - Estï¿½ ocurriendo, por $350 XD -  - https://t.co/B00VqLCw93",es,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 21:00:04 +0000 2019,546789394,Atos Smart Data Management Suite enrichedï¿½with 2 new #Flash #storage appliances that dramatically will change the wï¿½ https://t.co/GKmcykkyre,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 19:12:38 +0000 2019,91095561,No smart arse @HarryMaguire93 Pics tonight.. Spun dizzy by Palace.. 1-3,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 09:03:12 +0000 2019,47886089,"while everyone is talking about new 5G Smartphones, I'm testing my new @xiaomi Mi Smart Kettle ^^ #MWC19 #smarthomeï¿½ https://t.co/o5mwawZdFR",en,None,None,None,1a27537478dd8e38,None,ES,0,4,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 14:42:22 +0000 2019,8.89957E+17,"SBi Motus Smart Project, equipped with patented sensors, is nowaday the first walker in the world able to monitor pï¿½ https://t.co/xP3jGRu7Hk",en,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 14:40:50 +0000 2019,8.89957E+17,We are very proud to announce our partecipation at the Mobile World Congress - #MWC Barcelona from 25 to 28 Februarï¿½ https://t.co/g9gF8wLcGT,en,None,None,None,1a27537478dd8e38,None,ES,0,2,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 12:43:09 +0000 2019,68837355,"Shay is smart, funny, top teller of stories but a serious, talented pro. Thisï¿½ll entertain ya- promise https://t.co/IDS0B2MCDo",en,None,None,None,1a27537478dd8e38,None,ES,1,9,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 03:51:00 +0000 2019,51224723,Algo que le falta a la app de @UBEAT_TV  -  - Chromecast en reproductor y app para Android TV/Smart TV.,es,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Wed Feb 20 11:08:40 +0000 2019,8.855E+17,"Check this read by @the_logic to warm up before MWC 2019 @GSMA next week, and to learn how Barcelona is building thï¿½ https://t.co/1WWzVh4pvo",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Tue Feb 19 17:22:37 +0000 2019,53489036,"Allï¿½ tï¿½pic que poses una TV de 40"" a Wallapop per 95ï¿½ i et pregunten si ï¿½s Smart TV.  - I 4K tambï¿½, reina.",ca,None,None,None,1a27537478dd8e38,None,ES,3,36,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Tue Feb 19 13:45:05 +0000 2019,546789394,#Ecoffice from Pompeu Fabra #University is to create a smart office environment using machine learning techniques tï¿½ https://t.co/Kq6PxF5l0X,en,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Tue Feb 19 10:22:44 +0000 2019,3070033102,@BluShades Your channel is full of smart stuff. I understand how you feel as I try to do the same (in Spanish) andï¿½ https://t.co/JTjbaitE3l,en,None,None,None,1a27537478dd8e38,None,ES,0,2,smart,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.389295,2.168735,2,None,
+1099608060341952512,Sun Feb 24 09:52:45 +0000 2019,870221240929140736,.@XiangW_  is performing a live demonstration of smart home living with Xiaomiï¿½s IoT products. https://t.co/zlCrwiweg7,en,None,None,None,07d9c93b79082001,None,,3,4,smart,41.376486,2.098896,2,None
+
+1100109026006847488,Mon Feb 25 19:03:25 +0000 2019,342298918,"Me reunï¿½ durante el #MWC19 con referentes de la plataforma ""Smart cities"" de Huawei, que lidera proyectos en mï¿½s deï¿½ https://t.co/MFwQg9Qrx6",es,None,None,None,1a27537478dd8e38,None,ES,20,26,smart,41.378565,2.145478,2,None
+
+1100076530762424320,Mon Feb 25 16:54:18 +0000 2019,239757990,This week weï¿½re broadcasting each day from #MWC19 Barcelona on the #NextWave of industry futures. Hereï¿½s our firstï¿½ https://t.co/xIeiZY9aM3,en,None,None,None,1a27537478dd8e38,None,ES,0,3,smart,41.378565,2.145478,2,None
+
+1100026583191048193,Mon Feb 25 13:35:49 +0000 2019,845391318679519234,.@huawei internalizes what it sells for #digitaltransformation for its own smart campus #IoT #GIS #cloudï¿½ https://t.co/ZoHkYeTla2,en,None,None,None,1a27537478dd8e38,None,ES,3,3,smart,41.378565,2.145478,2,None
+
+1100022971605766144,Mon Feb 25 13:21:28 +0000 2019,4909033241,Intelligent Connectivity @MWCapital #MWC2019 Smart Manufacturing brings Smart Products how we applied #IoEï¿½ https://t.co/nq1nggsdLF,en,None,None,None,1a27537478dd8e38,None,ES,1,1,smart,41.378565,2.145478,2,None
+
+1099991963590365184,Mon Feb 25 11:18:15 +0000 2019,215938935,"ROSMIMANï¿½ Smart #Mobility: the new generation of smart #apps that adapt to simple and complex Maintenance needs, Faï¿½ https://t.co/vkIWbm9upR",en,None,None,None,1a27537478dd8e38,None,ES,1,2,smart,41.378565,2.145478,2,None
+
+1099985769341636610,Mon Feb 25 10:53:38 +0000 2019,885500187153756160,@dirkslama from @BoschSI speaking on the @Trusted_IoT challenges at @GSMA MWC Barcelona right now. Learn more aboutï¿½ https://t.co/johO0mLeH3,en,None,None,None,1a27537478dd8e38,None,ES,1,3,smart,41.378565,2.145478,2,None
+
+1099722209382354946,Sun Feb 24 17:26:21 +0000 2019,15100291,"After finishing the stand building, having a read in our safer smart home #MWC19Barcelona #mwc #computerbild https://t.co/ajpHSgE4gg",en,None,None,None,1a27537478dd8e38,None,ES,2,7,smart,41.378565,2.145478,2,None
+
+1099665751588388864,Sun Feb 24 13:42:00 +0000 2019,949056910275239936,"At Intel booth this week, we will be showing a PoC that illustrates the reach of 5G + MEC: direct communication forï¿½ https://t.co/McNby3JCn1",en,None,None,None,1a27537478dd8e38,None,ES,9,18,smart,41.378565,2.145478,2,None
+
+1099663127258546178,Sun Feb 24 13:31:34 +0000 2019,19764998,Huawei's home/office 5G router with Wi-Fi 6 (802.11ax 4.8Gbps) support and HiLink protocols for smart homes. Max 5Gï¿½ https://t.co/oQ7VxOuoJU,en,None,None,None,1a27537478dd8e38,None,ES,2,2,smart,41.378565,2.145478,2,None
+
+1099622436818116609,Sun Feb 24 10:49:53 +0000 2019,19764998,Finally Xiaomi has launched a smart LED bulb for ï¿½19.90 #MakeItHappen,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1099622034873769984,Sun Feb 24 10:48:17 +0000 2019,43496528,Altra Novitï¿½: arrivano anche le@ lampadine Smart - Xiaomi mi bulbs  - @ItaliaXiaomi  - #MWC2019 https://t.co/tyD3gSfMM5,it,None,None,None,1a27537478dd8e38,None,ES,0,2,smart,41.378565,2.145478,2,None
+
+1099606242199330816,Sun Feb 24 09:45:32 +0000 2019,19764998,"Xiaomi is much more than a phone company. Wearables, e-scooters, electric toothbrushes, action cameras, dash cams,ï¿½ https://t.co/EEpIec1mlc",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1099591588861349888,Sun Feb 24 08:47:18 +0000 2019,248687879,"""He actualizado mis zapatillas y ahora no se atan. Me han recomendado un hard reset"" -  - Estï¿½ ocurriendo, por $350 XD -  - https://t.co/B00VqLCw93",es,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.378565,2.145478,2,None
+
+1099413604363878400,Sat Feb 23 21:00:04 +0000 2019,546789394,Atos Smart Data Management Suite enrichedï¿½with 2 new #Flash #storage appliances that dramatically will change the wï¿½ https://t.co/GKmcykkyre,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1099386569079820288,Sat Feb 23 19:12:38 +0000 2019,91095561,No smart arse @HarryMaguire93 Pics tonight.. Spun dizzy by Palace.. 1-3,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1099233202168909824,Sat Feb 23 09:03:12 +0000 2019,47886089,"while everyone is talking about new 5G Smartphones, I'm testing my new @xiaomi Mi Smart Kettle ^^ #MWC19 #smarthomeï¿½ https://t.co/o5mwawZdFR",en,None,None,None,1a27537478dd8e38,None,ES,0,4,smart,41.378565,2.145478,2,None
+
+1098956165801754624,Fri Feb 22 14:42:22 +0000 2019,889956972069609474,"SBi Motus Smart Project, equipped with patented sensors, is nowaday the first walker in the world able to monitor pï¿½ https://t.co/xP3jGRu7Hk",en,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.378565,2.145478,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.3872,2.168588,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.387706,2.168507,2,None
+
+1100058145269915649,Mon Feb 25 15:41:14 +0000 2019,2541194262,@Melinda_DS Smart Fortwo 2022,en,None,None,None,1aca5ffbc553e95b,None,ES,0,2,smart,41.362977,2.100302,2,None
+
+1100009869191639040,Mon Feb 25 12:29:24 +0000 2019,1324169768,"ï¿½Miradas hacia la democracia: de ciudades industriales a Smart Citiesï¿½, esdeveniment previst pel 28 de febrer, quedï¿½ https://t.co/PGkpsBOzJZ",ca,None,None,None,1aca5ffbc553e95b,None,ES,0,0,smart,41.362977,2.100302,2,None
+
+1099729082349060096,Sun Feb 24 17:53:39 +0000 2019,15535595,"the entire pitch for HoloLens 2 is for enterprise customers, and Microsoftï¿½s brought a string of clients onstage toï¿½ https://t.co/yTckpyZf06",en,None,None,None,1aca5ffbc553e95b,None,ES,2,6,smart,41.362977,2.100302,2,None
+
+1099726342541721600,Sun Feb 24 17:42:46 +0000 2019,115522779,Im more impressed Microsoft figured out a smart way to SHOW mixed reality instead of looking at person randomly touï¿½ https://t.co/RiN59eloLw,en,None,None,None,1aca5ffbc553e95b,None,ES,0,10,smart,41.362977,2.100302,2,None
+
+1099335399766401024,Sat Feb 23 15:49:18 +0000 2019,832366926,"Quuppa provides a robust, scalable and affordable location platform built on the direction finding now standardizedï¿½ https://t.co/Diq1BUpu1W",en,None,None,None,1aca5ffbc553e95b,None,ES,2,4,smart,41.362977,2.100302,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.3872,2.168588,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.387706,2.168507,2,None
+
+1100058145269915649,Mon Feb 25 15:41:14 +0000 2019,2541194262,@Melinda_DS Smart Fortwo 2022,en,None,None,None,1aca5ffbc553e95b,None,ES,0,2,smart,41.362977,2.100302,2,None
+
+1100009869191639040,Mon Feb 25 12:29:24 +0000 2019,1324169768,"ï¿½Miradas hacia la democracia: de ciudades industriales a Smart Citiesï¿½, esdeveniment previst pel 28 de febrer, quedï¿½ https://t.co/PGkpsBOzJZ",ca,None,None,None,1aca5ffbc553e95b,None,ES,0,0,smart,41.362977,2.100302,2,None
+
+1099729082349060096,Sun Feb 24 17:53:39 +0000 2019,15535595,"the entire pitch for HoloLens 2 is for enterprise customers, and Microsoftï¿½s brought a string of clients onstage toï¿½ https://t.co/yTckpyZf06",en,None,None,None,1aca5ffbc553e95b,None,ES,2,6,smart,41.362977,2.100302,2,None
+
+1099726342541721600,Sun Feb 24 17:42:46 +0000 2019,115522779,Im more impressed Microsoft figured out a smart way to SHOW mixed reality instead of looking at person randomly touï¿½ https://t.co/RiN59eloLw,en,None,None,None,1aca5ffbc553e95b,None,ES,0,10,smart,41.362977,2.100302,2,None
+
+1099335399766401024,Sat Feb 23 15:49:18 +0000 2019,832366926,"Quuppa provides a robust, scalable and affordable location platform built on the direction finding now standardizedï¿½ https://t.co/Diq1BUpu1W",en,None,None,None,1aca5ffbc553e95b,None,ES,2,4,smart,41.362977,2.100302,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.40018,2.179581,2,None
+
+1099251867815759872,Sat Feb 23 10:17:23 +0000 2019,148531061,We donï¿½t need more #smart #technology but more #smart #human #mweek https://t.co/0npqHsAhOp,en,None,None,None,07d9d38b5c088004,None,ES,0,1,smart,41.40018,2.179581,2,None
+
+1099249529248010240,Sat Feb 23 10:08:05 +0000 2019,258032124,"Trust the Russians to come up with the proper functional programming under the smart contracts and assets ï¿½ #Scala,ï¿½ https://t.co/VIQUSsAHeW",en,None,None,None,07d9cfe15c881000,None,ES,2,3,smart,41.40018,2.179581,2,None
+
+1099246646431502336,Sat Feb 23 09:56:38 +0000 2019,258032124,The Waves smart contract at #telekomwall #TLabsHACK https://t.co/pZxBJqBwVf,en,None,None,None,07d9cfe15c881000,None,ES,0,1,smart,41.40018,2.179581,2,None
+
+1100314104097579008,Tue Feb 26 08:38:19 +0000 2019,574631471,"Dubai pledging no more paper transactions with the government by 2021. Ambitious, feasible, smart. #MWC19Barcelonaï¿½ https://t.co/n2pCtxBSfR",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None
+
+1100306754909470720,Tue Feb 26 08:09:07 +0000 2019,3313644484,Find out about the new smart system for real-time monitoring and analysis! #mwc19 Booth 5F81 https://t.co/XuHa0rG9Tf,en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None
+
+1100303183342174208,Tue Feb 26 07:54:56 +0000 2019,1906878560,#MWC19 ï¿½we will hear from organisations using this technology to create new experiences and services for their custï¿½ https://t.co/jdykoLI97g,en,None,None,None,1a27537478dd8e38,None,ES,1,3,smart,41.37907,2.153966,2,None
+
+1100285242932383744,Tue Feb 26 06:43:38 +0000 2019,1585,"#MWC19 Update: This year, the #mobile industry is all about #5G, foldable phones, and fractious politicsï¿½ https://t.co/vSOISONtaN",en,None,None,None,1a27537478dd8e38,None,ES,2,8,smart,41.37907,2.153966,2,None
+
+1100124674325921793,Mon Feb 25 20:05:36 +0000 2019,24987895,The Power of 3 = Smart City Security. (We promise we did not try to rhyme just then...) Moving on... -  - See how togetï¿½ https://t.co/O2VCk5VbX3,en,None,None,None,1a27537478dd8e38,None,ES,3,10,smart,41.37907,2.153966,2,None
+
+1100109026006847488,Mon Feb 25 19:03:25 +0000 2019,342298918,"Me reunï¿½ durante el #MWC19 con referentes de la plataforma ""Smart cities"" de Huawei, que lidera proyectos en mï¿½s deï¿½ https://t.co/MFwQg9Qrx6",es,None,None,None,1a27537478dd8e38,None,ES,33,75,smart,41.37907,2.153966,2,None
+
+1100076530762424320,Mon Feb 25 16:54:18 +0000 2019,239757990,This week weï¿½re broadcasting each day from #MWC19 Barcelona on the #NextWave of industry futures. Hereï¿½s our firstï¿½ https://t.co/xIeiZY9aM3,en,None,None,None,1a27537478dd8e38,None,ES,0,4,smart,41.37907,2.153966,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.37907,2.153966,2,None
+
+1100026583191048193,Mon Feb 25 13:35:49 +0000 2019,845391318679519234,.@huawei internalizes what it sells for #digitaltransformation for its own smart campus #IoT #GIS #cloudï¿½ https://t.co/ZoHkYeTla2,en,None,None,None,1a27537478dd8e38,None,ES,4,5,smart,41.37907,2.153966,2,None
+
+1100022971605766144,Mon Feb 25 13:21:28 +0000 2019,4909033241,Intelligent Connectivity @MWCapital #MWC2019 Smart Manufacturing brings Smart Products how we applied #IoEï¿½ https://t.co/nq1nggsdLF,en,None,None,None,1a27537478dd8e38,None,ES,1,1,smart,41.37907,2.153966,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelonaï¿½ https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.389295,2.168735,2,None
+
+1099608060341952512,Sun Feb 24 09:52:45 +0000 2019,870221240929140736,.@XiangW_  is performing a live demonstration of smart home living with Xiaomiï¿½s IoT products. https://t.co/zlCrwiweg7,en,None,None,None,07d9c93b79082001,None,ES,3,4,smart,41.376486,2.098896,2,None
+
+1100326985778241536,Tue Feb 26 09:29:31 +0000 2019,111864601,"Lenovo Natives Mobility  . For proper exploration of smart cities , smart &amp; ecological vehicles   #SmarterWithLenovo https://t.co/icFaBuwnYg",en,None,None,None,1a27537478dd8e38,None,ES,0,1,smart,41.378565,2.145478,2,None
+
+1100315627997270017,Tue Feb 26 08:44:23 +0000 2019,246910986,"Remote surgery, AR sports viewing and smart construction among a number of 5G demos on NTT DoCoMo stand. #MWC19 https://t.co/XvgxyM08pY",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1100314104097579008,Tue Feb 26 08:38:19 +0000 2019,574631471,"Dubai pledging no more paper transactions with the government by 2021. Ambitious, feasible, smart. #MWC19Barcelonaï¿½ https://t.co/n2pCtxBSfR",en,None,None,None,1a27537478dd8e38,None,ES,0,0,smart,41.378565,2.145478,2,None
+
+1100306754909470720,Tue Feb 26 08:09:07 +0000 2019,3313644484,Find out about the new smart system for real-time monitoring and analysis! #mwc19 Booth 5F81 https://t.co/XuHa0rG9Tf,en,None,None,None,1a27537478dd8e38,None,ES,1,1,smart,41.378565,2.145478,2,None
+
+1100303183342174208,Tue Feb 26 07:54:56 +0000 2019,1906878560,#MWC19 ï¿½we will hear from organisations using this technology to create new experiences and services for their custï¿½ https://t.co/jdykoLI97g,en,None,None,None,1a27537478dd8e38,None,ES,1,3,smart,41.378565,2.145478,2,None
+
+1100285242932383744,Tue Feb 26 06:43:38 +0000 2019,1585,"#MWC19 Update: This year, the #mobile industry is all about #5G, foldable phones, and fractious politicsï¿½ https://t.co/vSOISONtaN",en,None,None,None,1a27537478dd8e38,None,ES,2,8,smart,41.378565,2.145478,2,None
+
+1100124674325921793,Mon Feb 25 20:05:36 +0000 2019,24987895,The Power of 3 = Smart City Security. (We promise we did not try to rhyme just then...) Moving on... -  - See how togetï¿½ https://t.co/O2VCk5VbX3,en,None,None,None,1a27537478dd8e38,None,ES,4,12,smart,41.378565,2.145478,2,None
+
+1100109026006847488,Mon Feb 25 19:03:25 +0000 2019,342298918,"Me reunï¿½ durante el #MWC19 con referentes de la plataforma ""Smart cities"" de Huawei, que lidera proyectos en mï¿½s deï¿½ https://t.co/MFwQg9Qrx6",es,None,None,None,1a27537478dd8e38,None,ES,33,75,smart,41.378565,2.145478,2,None
+
+1100076530762424320,Mon Feb 25 16:54:18 +0000 2019,239757990,This week weï¿½re broadcasting each day from #MWC19 Barcelona on the #NextWave of industry futures. Hereï¿½s our firstï¿½ https://t.co/xIeiZY9aM3,en,None,None,None,1a27537478dd8e38,None,ES,0,4,smart,41.378565,2.145478,2,None
+
+1097464898890752000,Mon Feb 18 11:56:36 +0000 2019,174249334,"En aquesta alï¿½ada del carrer Fluvia volen posar una associaciï¿½ d cï¿½nnabis, just al costat dï¿½una zona infantil i unï¿½ https://t.co/xGJCR4qcSF",ca,None,None,None,07d9f2d008c81000,None,ES,1,0,smart,41.41174,2.215909,2,None
+
+1100049962820296706,Mon Feb 25 15:08:43 +0000 2019,14197127,Huawei debuts its foldable smart phone at Mobile World Congress #mwc19 #mobilization #foldablephone #barcelona… https://t.co/r9c3fu5GO6,en,Point,41.3888,2.1681,1a27537478dd8e38,None,ES,0,0,smart,41.3872,2.168588,2,None

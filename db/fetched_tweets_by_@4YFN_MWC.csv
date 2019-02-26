@@ -1,5 +1,263 @@
-id,created_at,text,lang,coordinates_type,coordinates_lat,coordinates_lon,place_id,place_name,place_country_code,retweet_count,favorite_count,_search_string,_search_loc_lat,_search_loc_lon,_search_loc_range,label,sentiment_classifier_score
-Sat Feb 23 10:26:12 +0000 2019,915493999879876608,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,8,@4YFN_MWC,41.373693,2.151002,1,NEG,0.004
+id,created_at, user_id,text,lang,coordinates_type,coordinates_lat,coordinates_lon,place_id,place_name,place_country_code,retweet_count,favorite_count,_search_string,_search_loc_lat,_search_loc_lon,_search_loc_range,label
+Sat Feb 23 10:26:12 +0000 2019,9.15494E+17,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,8,@4YFN_MWC,41.373693,2.151002,1,NEG,0.004
 Thu Feb 14 12:36:10 +0000 2019,198458639,No te pierdas nuestro tour en el @4YFN_MWC! https://t.co/TfBoByxDIV,es,None,None,None,37ded68f419372ee,None,ES,3,5,@4YFN_MWC,41.309457,2.092745,1,POS,0.717
-Sat Feb 23 10:26:12 +0000 2019,915493999879876608,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,8,@4YFN_MWC,41.373693,2.151002,1,NEG,0.004
+Sat Feb 23 10:26:12 +0000 2019,9.15494E+17,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,8,@4YFN_MWC,41.373693,2.151002,1,NEG,0.004
 Thu Feb 14 12:36:10 +0000 2019,198458639,No te pierdas nuestro tour en el @4YFN_MWC! https://t.co/TfBoByxDIV,es,None,None,None,37ded68f419372ee,None,ES,3,5,@4YFN_MWC,41.309457,2.092745,1,POS,0.717
+Mon Feb 25 17:25:49 +0000 2019,10535642,"Y aqu� seguimos sin parar en el @4YFN_MWC. Ya perd� la cuenta de reuniones, d�a a tope #4yfn19 https://t.co/5jyPgNuZ5A",es,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:40:51 +0000 2019,23311348,#miro19 Miro in cube logo #selfie and branded chocolate macarons   @programmemiro @upvd1  @4YFN_MWC #4YFN19 https://t.co/pJknfKjkN9,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:32:51 +0000 2019,23311348,#miro19 the audience from the jury on stage #startup #hackathon #56hours contest @programmemiro @upvd1  @4YFN_MWC� https://t.co/qm7B5LHCQ7,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:27:15 +0000 2019,2647056523,Estamos estos d�as en el #4YFN19 junto al ecosistema de #Valencia. Si tienes un proyecto y quieres que te apoyemos� https://t.co/HhogtTYeFH,es,None,None,None,07d9f3203b087000,None,ES,1,6,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:54:42 +0000 2019,19106644,"I'm at @4YFN_mwc in Barcelona, Catalonia https://t.co/BZtI2LYIqu",en,Point,41.37267038,2.14971542,1a27537478dd8e38,None,ES,1,0,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:46:32 +0000 2019,9.43438E+17,�There will be a consolidation of the market. #Mobility providers need to prove that they are a reliable #partner f� https://t.co/wpR1nQwtxu,en,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 13:22:27 +0000 2019,23311348,#miro19 innovation contest #startups from @programmemiro @upvd1 during @4YFN_MWC #4YFN19 honored to be jury member https://t.co/FgjGcJORss,en,None,None,None,07d9f3203b087000,None,ES,1,2,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:45:31 +0000 2019,1714749979,Learning with @MechVentura christian Lindener how startups can do business with corporates @4YFN_MWC @WayraES� https://t.co/8UwrDC91NP,en,None,None,None,07d9f3203b087000,None,ES,0,1,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:18:30 +0000 2019,9.33661E+17,"Nuestra primera intervenci�n en @4YFN_MWC hablando con #VC, #FO y otras #startups sobre nuestra relaci�n con la par� https://t.co/m464jgOv0p",es,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 11:19:38 +0000 2019,8.49288E+17,Excited to be at #MWC19 #4YFN19 now attending the discussion about female founders #JByrne #Quesnay #JoBertram� https://t.co/7eEtGgFChd,en,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:32:30 +0000 2019,2244184184,First day of #4YFN19 ! We welcome all vistors to experience our immersive #VR experience at 4YFN Plaza! @4YFN_MWC� https://t.co/m9GuEPnYnN,en,None,None,None,07d9f3203b087000,None,ES,0,5,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:27:09 +0000 2019,23311348,"#4YFN19 ""Four years from now"" connecting startups @4YFN_MWC queueing at entrance before jury  #mic19 @programmemiro� https://t.co/OTzz1QCu4B",en,None,None,None,07d9f3203b087000,None,ES,2,4,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:00:51 +0000 2019,9.90877E+17,Let�s start! @4YFN_MWC https://t.co/Z0JHUJxMpw,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 09:48:44 +0000 2019,859371224,Ya estamos en @4YFN_MWC listos para construir con startups y #fintechs. �Si tienes un proyecto ya avanzado que crea� https://t.co/J6sGhVErNA,es,None,None,None,07d9f3203b087000,None,ES,1,6,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 09:39:57 +0000 2019,8.89771E+17,Looking forward to seeing you entering our stickers competition! #4YFN19 Find them all around the expo and tweet to� https://t.co/3xfwHNgsLG,en,None,None,None,07d9f51a45082000,None,ES,2,1,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 08:28:26 +0000 2019,104480914,Back again at @4YFN_MWC! Headed to the back-to-back panels on Corporate #VentureCapital and #CorporateInnovation pr� https://t.co/c6yXWvSCnL,en,None,None,None,07d9c97412088005,None,ES,0,4,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 06:57:26 +0000 2019,9.41428E+17,�Ha llegado el gran d�a! Hoy estaremos en @4YFN_MWC junto a @UOCosrt @21capacitats @SocioEconAMB #Hubbik #MWC19 #4YFN #yotbleo,es,None,None,None,07d9f5e124086000,None,ES,3,8,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 10:26:12 +0000 2019,9.15494E+17,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,12,@4YFN_MWC,41.373693,2.151002,1,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 11:21:57 +0000 2019,8.57507E+17,@TMBinfo @Fira_Barcelona @GSMA @4YFN_MWC Pero abra huelga de metro ONO?,es,None,None,None,0df96a5eace851e2,None,ES,0,0,@4YFN_MWC,41.451492,2.185391,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:29:02 +0000 2019,224015619,"@4YFN_MWC al segle XXI, amb inscripcio feta per internet, 45 minuts de cua per treure el badget no sembla molt de f� https://t.co/nO1QROzI93",ca,None,None,None,143647b90c769781,None,ES,0,0,@4YFN_MWC,41.362753,2.083994,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:15:00 +0000 2019,392017282,How payments are made today and how they'll be in #4YFN @4YFN_MWC https://t.co/tKLzwRfvK3,en,None,None,None,07d9e05367886000,None,ES,0,2,@4YFN_MWC,41.40018,2.179581,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:26:44 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/tyTWu12QNF,en,None,None,None,1a27537478dd8e38,None,ES,5,15,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 18:35:52 +0000 2019,219698449,. @4YFN_MWC Today we received the pleasent visit of @woischnik #TOA Founder at our stand R2-5 #Valencia Entrepreneu� https://t.co/HfnlVmDIcq,en,None,None,None,1a27537478dd8e38,None,ES,1,2,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 18:25:41 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/ZBDgpQwM17,en,None,None,None,1a27537478dd8e38,None,ES,6,10,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:36:50 +0000 2019,1151791,Glad to see that data-driven innovation in the Music Industry has become such an inspiring topic across sectors. Th� https://t.co/Ns7NvyATWt,en,None,None,None,1a27537478dd8e38,None,ES,3,1,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:25:49 +0000 2019,10535642,"Y aqu� seguimos sin parar en el @4YFN_MWC. Ya perd� la cuenta de reuniones, d�a a tope #4yfn19 https://t.co/5jyPgNuZ5A",es,None,None,None,07d9f3203b087000,None,ES,0,3,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:16:49 +0000 2019,1580249713,@Verownika Vente al @4YFN_MWC que a las 18:30 hay cerveza gratis,es,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:45:39 +0000 2019,134818140,@NGI4eu presenting the next generation internet awards 2019 @4YFN_MWC with @francesca_bria @mydataorg @cryptpad� https://t.co/VcDObHBvlU,en,None,None,None,1a27537478dd8e38,None,ES,6,6,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:40:51 +0000 2019,23311348,#miro19 Miro in cube logo #selfie and branded chocolate macarons   @programmemiro @upvd1  @4YFN_MWC #4YFN19 https://t.co/pJknfKjkN9,en,None,None,None,07d9f3203b087000,None,ES,0,1,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:32:51 +0000 2019,23311348,#miro19 the audience from the jury on stage #startup #hackathon #56hours contest @programmemiro @upvd1  @4YFN_MWC� https://t.co/qm7B5LHCQ7,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:27:15 +0000 2019,2647056523,Estamos estos d�as en el #4YFN19 junto al ecosistema de #Valencia. Si tienes un proyecto y quieres que te apoyemos� https://t.co/HhogtTYeFH,es,None,None,None,07d9f3203b087000,None,ES,2,8,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:26:04 +0000 2019,326687296,@sisselhan Founder &amp; CEO of @StartupGuideHQ and @rosenbergann SVP at @SAPNextGen proudly pre-launch the Entrepreneu� https://t.co/W1svdmn5ll,en,None,None,None,1a27537478dd8e38,None,ES,5,6,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:07:28 +0000 2019,210559448,Al @4YFN_MWC hi trobareu (entre moltes altres coses) diverses startups que hem ajudat a crear des de l� @icec_cat https://t.co/O4tw24SXSb,ca,None,None,None,1a27537478dd8e38,None,ES,1,5,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:59:42 +0000 2019,20981117,"�#Biohacking onstage: Live Human Chip Implant� @4YFN_MWC, this one�s going to be interesting. https://t.co/lDaimMslH7",en,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:49:34 +0000 2019,130120505,"@oisinlunny It has been amazing to participate in the @4YFN_MWC sharing our experience with robotics, thank you for� https://t.co/XuMfDr8w6N",en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:49:32 +0000 2019,292019298,PHOTOS Imagine #express2019 DAY 4 Barcelona. Rehearsal at @MovistarCentre @Renfe_SNCF @4YFN_MWC @FBSabadell� https://t.co/mLRtcyXxmk,en,None,None,None,1a27537478dd8e38,None,ES,1,1,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:54:42 +0000 2019,19106644,"I'm at @4YFN_mwc in Barcelona, Catalonia https://t.co/BZtI2LYIqu",en,Point,41.37267038,2.14971542,1a27537478dd8e38,None,ES,1,0,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:48:58 +0000 2019,21774567,#MWC19 #FUTURE - Paul is jumping feet-first into the #Future for us at @4YFN_MWC! -  - Next talk: �Beyond Silicon: Explor� https://t.co/R9VSkbjgz5,en,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:46:32 +0000 2019,9.43438E+17,�There will be a consolidation of the market. #Mobility providers need to prove that they are a reliable #partner f� https://t.co/wpR1nQwtxu,en,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.37907,2.153966,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:25:49 +0000 2019,10535642,"Y aqu� seguimos sin parar en el @4YFN_MWC. Ya perd� la cuenta de reuniones, d�a a tope #4yfn19 https://t.co/5jyPgNuZ5A",es,None,None,None,07d9f3203b087000,None,ES,0,3,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:40:51 +0000 2019,23311348,#miro19 Miro in cube logo #selfie and branded chocolate macarons   @programmemiro @upvd1  @4YFN_MWC #4YFN19 https://t.co/pJknfKjkN9,en,None,None,None,07d9f3203b087000,None,ES,0,1,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:32:51 +0000 2019,23311348,#miro19 the audience from the jury on stage #startup #hackathon #56hours contest @programmemiro @upvd1  @4YFN_MWC� https://t.co/qm7B5LHCQ7,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:27:15 +0000 2019,2647056523,Estamos estos d�as en el #4YFN19 junto al ecosistema de #Valencia. Si tienes un proyecto y quieres que te apoyemos� https://t.co/HhogtTYeFH,es,None,None,None,07d9f3203b087000,None,ES,2,8,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:54:42 +0000 2019,19106644,"I'm at @4YFN_mwc in Barcelona, Catalonia https://t.co/BZtI2LYIqu",en,Point,41.37267038,2.14971542,1a27537478dd8e38,None,ES,1,0,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 14:46:32 +0000 2019,9.43438E+17,�There will be a consolidation of the market. #Mobility providers need to prove that they are a reliable #partner f� https://t.co/wpR1nQwtxu,en,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 13:22:27 +0000 2019,23311348,#miro19 innovation contest #startups from @programmemiro @upvd1 during @4YFN_MWC #4YFN19 honored to be jury member https://t.co/FgjGcJORss,en,None,None,None,07d9f3203b087000,None,ES,1,2,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:45:31 +0000 2019,1714749979,Learning with @MechVentura christian Lindener how startups can do business with corporates @4YFN_MWC @WayraES� https://t.co/8UwrDC91NP,en,None,None,None,07d9f3203b087000,None,ES,0,1,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:18:30 +0000 2019,9.33661E+17,"Nuestra primera intervenci�n en @4YFN_MWC hablando con #VC, #FO y otras #startups sobre nuestra relaci�n con la par� https://t.co/m464jgOv0p",es,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 11:19:38 +0000 2019,8.49288E+17,Excited to be at #MWC19 #4YFN19 now attending the discussion about female founders #JByrne #Quesnay #JoBertram� https://t.co/7eEtGgFChd,en,None,None,None,07d9f3203b087000,None,ES,0,2,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:32:30 +0000 2019,2244184184,First day of #4YFN19 ! We welcome all vistors to experience our immersive #VR experience at 4YFN Plaza! @4YFN_MWC� https://t.co/m9GuEPnYnN,en,None,None,None,07d9f3203b087000,None,ES,0,6,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:27:09 +0000 2019,23311348,"#4YFN19 ""Four years from now"" connecting startups @4YFN_MWC queueing at entrance before jury  #mic19 @programmemiro� https://t.co/OTzz1QCu4B",en,None,None,None,07d9f3203b087000,None,ES,2,4,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 10:00:51 +0000 2019,9.90877E+17,Let�s start! @4YFN_MWC https://t.co/Z0JHUJxMpw,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 09:48:44 +0000 2019,859371224,Ya estamos en @4YFN_MWC listos para construir con startups y #fintechs. �Si tienes un proyecto ya avanzado que crea� https://t.co/J6sGhVErNA,es,None,None,None,07d9f3203b087000,None,ES,1,6,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 09:39:57 +0000 2019,8.89771E+17,Looking forward to seeing you entering our stickers competition! #4YFN19 Find them all around the expo and tweet to� https://t.co/3xfwHNgsLG,en,None,None,None,07d9f51a45082000,None,ES,2,1,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 08:28:26 +0000 2019,104480914,Back again at @4YFN_MWC! Headed to the back-to-back panels on Corporate #VentureCapital and #CorporateInnovation pr� https://t.co/c6yXWvSCnL,en,None,None,None,07d9c97412088005,None,ES,0,4,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 06:57:26 +0000 2019,9.41428E+17,�Ha llegado el gran d�a! Hoy estaremos en @4YFN_MWC junto a @UOCosrt @21capacitats @SocioEconAMB #Hubbik #MWC19 #4YFN #yotbleo,es,None,None,None,07d9f5e124086000,None,ES,3,8,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Sat Feb 23 10:26:12 +0000 2019,9.15494E+17,"Another year at @4YFN_MWC, another great opportunity to exchange with YOU innovative startups! If you want to conne� https://t.co/ZfN0iOknUb",en,None,None,None,07d9f3203b087000,None,ES,4,12,@4YFN_MWC,41.373293,2.13319,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 12:26:44 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/tyTWu12QNF,en,None,None,None,1a27537478dd8e38,None,ES,5,16,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 19:23:04 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/6kEszrp3Dr,en,None,None,None,1a27537478dd8e38,None,ES,1,4,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 18:35:52 +0000 2019,219698449,. @4YFN_MWC Today we received the pleasent visit of @woischnik #TOA Founder at our stand R2-5 #Valencia Entrepreneu� https://t.co/HfnlVmDIcq,en,None,None,None,1a27537478dd8e38,None,ES,1,3,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 18:25:41 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/ZBDgpQwM17,en,None,None,None,1a27537478dd8e38,None,ES,6,11,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:36:50 +0000 2019,1151791,Glad to see that data-driven innovation in the Music Industry has become such an inspiring topic across sectors. Th� https://t.co/Ns7NvyATWt,en,None,None,None,1a27537478dd8e38,None,ES,3,1,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:25:49 +0000 2019,10535642,"Y aqu� seguimos sin parar en el @4YFN_MWC. Ya perd� la cuenta de reuniones, d�a a tope #4yfn19 https://t.co/5jyPgNuZ5A",es,None,None,None,07d9f3203b087000,None,ES,0,3,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 17:16:49 +0000 2019,1580249713,@Verownika Vente al @4YFN_MWC que a las 18:30 hay cerveza gratis,es,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:45:39 +0000 2019,134818140,@NGI4eu presenting the next generation internet awards 2019 @4YFN_MWC with @francesca_bria @mydataorg @cryptpad� https://t.co/VcDObHBvlU,en,None,None,None,1a27537478dd8e38,None,ES,6,6,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:40:51 +0000 2019,23311348,#miro19 Miro in cube logo #selfie and branded chocolate macarons   @programmemiro @upvd1  @4YFN_MWC #4YFN19 https://t.co/pJknfKjkN9,en,None,None,None,07d9f3203b087000,None,ES,0,1,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:32:51 +0000 2019,23311348,#miro19 the audience from the jury on stage #startup #hackathon #56hours contest @programmemiro @upvd1  @4YFN_MWC� https://t.co/qm7B5LHCQ7,en,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:27:15 +0000 2019,2647056523,Estamos estos d�as en el #4YFN19 junto al ecosistema de #Valencia. Si tienes un proyecto y quieres que te apoyemos� https://t.co/HhogtTYeFH,es,None,None,None,07d9f3203b087000,None,ES,2,8,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:26:04 +0000 2019,326687296,@sisselhan Founder &amp; CEO of @StartupGuideHQ and @rosenbergann SVP at @SAPNextGen proudly pre-launch the Entrepreneu� https://t.co/W1svdmn5ll,en,None,None,None,1a27537478dd8e38,None,ES,5,6,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:07:28 +0000 2019,210559448,Al @4YFN_MWC hi trobareu (entre moltes altres coses) diverses startups que hem ajudat a crear des de l� @icec_cat https://t.co/O4tw24SXSb,ca,None,None,None,1a27537478dd8e38,None,ES,1,6,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:59:42 +0000 2019,20981117,"�#Biohacking onstage: Live Human Chip Implant� @4YFN_MWC, this one�s going to be interesting. https://t.co/lDaimMslH7",en,None,None,None,1a27537478dd8e38,None,ES,1,0,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:49:34 +0000 2019,130120505,"@oisinlunny It has been amazing to participate in the @4YFN_MWC sharing our experience with robotics, thank you for� https://t.co/XuMfDr8w6N",en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 15:49:32 +0000 2019,292019298,PHOTOS Imagine #express2019 DAY 4 Barcelona. Rehearsal at @MovistarCentre @Renfe_SNCF @4YFN_MWC @FBSabadell� https://t.co/mLRtcyXxmk,en,None,None,None,1a27537478dd8e38,None,ES,1,1,@4YFN_MWC,41.378565,2.145478,2,None,
+,,,,,,,,,,,,,,,,,
+Fri Feb 22 11:21:57 +0000 2019,8.57507E+17,@TMBinfo @Fira_Barcelona @GSMA @4YFN_MWC Pero abra huelga de metro ONO?,es,None,None,None,0df96a5eace851e2,None,ES,0,0,@4YFN_MWC,41.451492,2.185391,2,None,
+,,,,,,,,,,,,,,,,,
+Mon Feb 25 16:29:02 +0000 2019,224015619,"@4YFN_MWC al segle XXI, amb inscripcio feta per internet, 45 minuts de cua per treure el badget no sembla molt de f� https://t.co/nO1QROzI93",ca,None,None,None,143647b90c769781,None,ES,0,0,@4YFN_MWC,41.362753,2.083994,2,None,
+1098905728612364288,Fri Feb 22 11:21:57 +0000 2019,857507259844263937,@TMBinfo @Fira_Barcelona @GSMA @4YFN_MWC Pero abra huelga de metro ONO?,es,None,None,None,0df96a5eace851e2,None,ES,0,0,@4YFN_MWC,41.451492,2.185391,2,None
+
+1100070172755484678,Mon Feb 25 16:29:02 +0000 2019,224015619,"@4YFN_MWC al segle XXI, amb inscripcio feta per internet, 45 minuts de cua per treure el badget no sembla molt de f� https://t.co/nO1QROzI93",ca,None,None,None,143647b90c769781,None,ES,0,0,@4YFN_MWC,41.36275300000001,2.083994,2,None
+
+1100051542097494021,Mon Feb 25 15:15:00 +0000 2019,392017282,How payments are made today and how they'll be in #4YFN @4YFN_MWC https://t.co/tKLzwRfvK3,en,None,None,None,07d9e05367886000,None,,0,2,@4YFN_MWC,41.40018,2.179581,2,None
+
+1100113972777361409,Mon Feb 25 19:23:04 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/6kEszrp3Dr,en,None,None,None,1a27537478dd8e38,None,ES,11,18,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100309005380014080,Tue Feb 26 08:18:04 +0000 2019,1151791,Let�s start @4YFN_MWC Day 2 in legendary Camp Nou with forward-thinking entrepreneurs sharing vision on Diversity i� https://t.co/3bzc93ka5p,en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100308934806683653,Tue Feb 26 08:17:47 +0000 2019,227661941,Join us in our Booth @4YFN_MWC to learn about our Start Up development program - Booth 114 https://t.co/PiA45wFne5,en,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100287893065646081,Tue Feb 26 06:54:10 +0000 2019,466447964,A punto de comenzar el segundo d�a en @4YFN_MWC #4yfn19 con una agenda llena de actividades #dayone https://t.co/Ex3UC4d9oo,es,None,None,None,1a27537478dd8e38,None,ES,0,3,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100286652906393602,Tue Feb 26 06:49:15 +0000 2019,26382995,"Whoa. Gotta admit. As much as I love the future and the future, past wearables, is implantables - I am still not re� https://t.co/M5HoWuFwL7",en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100281301372940288,Tue Feb 26 06:27:59 +0000 2019,717637930827780096,"Apr�s un premier jour au @4yfn_mwc bien rempli, super visite et soir�e au @campnou_bcn https://t.co/QWXPjMctHy",fr,None,None,None,1a27537478dd8e38,None,ES,1,4,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100275458199891969,Tue Feb 26 06:04:46 +0000 2019,219698449,If you are at @4YFN_MWC you can join the #SocialNestXImpact Talk at 13:30 R2-5 BOOT where our Founder Margarita Alb� https://t.co/UfIBnVNDDe,en,None,None,None,1a27537478dd8e38,None,ES,3,7,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100222324010352640,Tue Feb 26 02:33:37 +0000 2019,16076740,"#Biohacking on Stage, Live implant show! Welcome to the world of #transhumanism. Please come to booth K3.1 at� https://t.co/s06ciaIZ5Y",en,None,None,None,1a27537478dd8e38,None,ES,4,6,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100160014201876480,Mon Feb 25 22:26:02 +0000 2019,226105408,Quelle belle journ�e #MiroInCube avec @programmemiro @upvd1 au @4YFN_MWC ! #Idefi de  l'@AgenceRecherche ! #jury� https://t.co/2IsRIzYoZc,fr,None,None,None,1a27537478dd8e38,None,ES,5,7,@4YFN_MWC,41.37907,2.153966,2,None
+
+1100325231133159425,Tue Feb 26 09:22:32 +0000 2019,3386189753,"�Para nosotros es importante estar aqu� para construir marca, tener visibilidad y encontrar partners�.� https://t.co/ND1BkjbiiL",es,None,None,None,07d9f3203b087000,None,,0,0,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100309595225055233,Tue Feb 26 08:20:24 +0000 2019,966388987,Enjoying empty #CampNou stadium of @fcbarcelona_fra for @FrenchTechBCN Warm up Breakfast talking about #Diversity a� https://t.co/ziDTeJVyxA,en,None,None,None,07d9ebad7c882000,None,ES,0,1,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100117700175712257,Mon Feb 25 19:37:53 +0000 2019,915493999879876608,Wrapped up the first day @4YFN_MWC and we are blown away by the great conversations we had today! The power of comm� https://t.co/cRPAloMyyN,en,None,None,None,07d9f3203b087000,None,,3,7,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100084463965474823,Mon Feb 25 17:25:49 +0000 2019,10535642,"Y aqu� seguimos sin parar en el @4YFN_MWC. Ya perd� la cuenta de reuniones, d�a a tope #4yfn19 https://t.co/5jyPgNuZ5A",es,None,None,None,07d9f3203b087000,None,,0,3,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100073147020255232,Mon Feb 25 16:40:51 +0000 2019,23311348,#miro19 Miro in cube logo #selfie and branded chocolate macarons   @programmemiro @upvd1  @4YFN_MWC #4YFN19 https://t.co/pJknfKjkN9,en,None,None,None,07d9f3203b087000,None,,0,1,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100071136321261569,Mon Feb 25 16:32:51 +0000 2019,23311348,#miro19 the audience from the jury on stage #startup #hackathon #56hours contest @programmemiro @upvd1  @4YFN_MWC� https://t.co/qm7B5LHCQ7,en,None,None,None,07d9f3203b087000,None,,0,1,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100069725999194113,Mon Feb 25 16:27:15 +0000 2019,2647056523,Estamos estos d�as en el #4YFN19 junto al ecosistema de #Valencia. Si tienes un proyecto y quieres que te apoyemos� https://t.co/HhogtTYeFH,es,None,None,None,07d9f3203b087000,None,,2,16,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100046435180007424,Mon Feb 25 14:54:42 +0000 2019,19106644,"I'm at @4YFN_mwc in Barcelona, Catalonia https://t.co/BZtI2LYIqu",en,Point,41.37267038,2.14971542,1a27537478dd8e38,None,ES,1,0,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100044379291557890,Mon Feb 25 14:46:32 +0000 2019,943437850070089728,�There will be a consolidation of the market. #Mobility providers need to prove that they are a reliable #partner f� https://t.co/wpR1nQwtxu,en,None,None,None,07d9f3203b087000,None,,0,2,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100023218096746497,Mon Feb 25 13:22:27 +0000 2019,23311348,#miro19 innovation contest #startups from @programmemiro @upvd1 during @4YFN_MWC #4YFN19 honored to be jury member https://t.co/FgjGcJORss,en,None,None,None,07d9f3203b087000,None,,1,2,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100013925016457216,Mon Feb 25 12:45:31 +0000 2019,1714749979,Learning with @MechVentura christian Lindener how startups can do business with corporates @4YFN_MWC @WayraES� https://t.co/8UwrDC91NP,en,None,None,None,07d9f3203b087000,None,,0,4,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100007127404478465,Mon Feb 25 12:18:30 +0000 2019,933661270175375361,"Nuestra primera intervenci�n en @4YFN_MWC hablando con #VC, #FO y otras #startups sobre nuestra relaci�n con la par� https://t.co/m464jgOv0p",es,None,None,None,07d9f3203b087000,None,,0,2,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1099992309335318528,Mon Feb 25 11:19:38 +0000 2019,849288275462414336,Excited to be at #MWC19 #4YFN19 now attending the discussion about female founders #JByrne #Quesnay #JoBertram� https://t.co/7eEtGgFChd,en,None,None,None,07d9f3203b087000,None,,0,2,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1099980451194769408,Mon Feb 25 10:32:30 +0000 2019,2244184184,First day of #4YFN19 ! We welcome all vistors to experience our immersive #VR experience at 4YFN Plaza! @4YFN_MWC� https://t.co/m9GuEPnYnN,en,None,None,None,07d9f3203b087000,None,,0,8,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1099979104106020864,Mon Feb 25 10:27:09 +0000 2019,23311348,"#4YFN19 ""Four years from now"" connecting startups @4YFN_MWC queueing at entrance before jury  #mic19 @programmemiro� https://t.co/OTzz1QCu4B",en,None,None,None,07d9f3203b087000,None,,3,5,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1099972485423030272,Mon Feb 25 10:00:51 +0000 2019,990877437490810881,Let�s start! @4YFN_MWC https://t.co/Z0JHUJxMpw,en,None,None,None,07d9f3203b087000,None,,0,0,@4YFN_MWC,41.373293,2.1331900000000004,2,None
+
+1100113972777361409,Mon Feb 25 19:23:04 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/6kEszrp3Dr,en,None,None,None,1a27537478dd8e38,None,ES,11,19,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100325231133159425,Tue Feb 26 09:22:32 +0000 2019,3386189753,"�Para nosotros es importante estar aqu� para construir marca, tener visibilidad y encontrar partners�.� https://t.co/ND1BkjbiiL",es,None,None,None,07d9f3203b087000,None,,0,0,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100324113862852608,Tue Feb 26 09:18:06 +0000 2019,198458639,"Arrancamos la ma�ana hablando de #CorporateVenturing con @MartaAntunezBCN en el @4YFN_MWC, estrategias de innovaci� https://t.co/aIWUNzqKNH",es,None,None,None,1a27537478dd8e38,None,ES,1,1,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100309595225055233,Tue Feb 26 08:20:24 +0000 2019,966388987,Enjoying empty #CampNou stadium of @fcbarcelona_fra for @FrenchTechBCN Warm up Breakfast talking about #Diversity a� https://t.co/ziDTeJVyxA,en,None,None,None,07d9ebad7c882000,None,ES,0,1,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100309005380014080,Tue Feb 26 08:18:04 +0000 2019,1151791,Let�s start @4YFN_MWC Day 2 in legendary Camp Nou with forward-thinking entrepreneurs sharing vision on Diversity i� https://t.co/3bzc93ka5p,en,None,None,None,1a27537478dd8e38,None,ES,0,3,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100308934806683653,Tue Feb 26 08:17:47 +0000 2019,227661941,Join us in our Booth @4YFN_MWC to learn about our Start Up development program - Booth 114 https://t.co/PiA45wFne5,en,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100287893065646081,Tue Feb 26 06:54:10 +0000 2019,466447964,A punto de comenzar el segundo d�a en @4YFN_MWC #4yfn19 con una agenda llena de actividades #dayone https://t.co/Ex3UC4d9oo,es,None,None,None,1a27537478dd8e38,None,ES,0,3,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100286652906393602,Tue Feb 26 06:49:15 +0000 2019,26382995,"Whoa. Gotta admit. As much as I love the future and the future, past wearables, is implantables - I am still not re� https://t.co/M5HoWuFwL7",en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100281301372940288,Tue Feb 26 06:27:59 +0000 2019,717637930827780096,"Apr�s un premier jour au @4yfn_mwc bien rempli, super visite et soir�e au @campnou_bcn https://t.co/QWXPjMctHy",fr,None,None,None,1a27537478dd8e38,None,ES,1,4,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100275458199891969,Tue Feb 26 06:04:46 +0000 2019,219698449,If you are at @4YFN_MWC you can join the #SocialNestXImpact Talk at 13:30 R2-5 BOOT where our Founder Margarita Alb� https://t.co/UfIBnVNDDe,en,None,None,None,1a27537478dd8e38,None,ES,3,8,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100222324010352640,Tue Feb 26 02:33:37 +0000 2019,16076740,"#Biohacking on Stage, Live implant show! Welcome to the world of #transhumanism. Please come to booth K3.1 at� https://t.co/s06ciaIZ5Y",en,None,None,None,1a27537478dd8e38,None,ES,4,6,@4YFN_MWC,41.378565,2.145478,2,None
+
+1100322267777486848,Tue Feb 26 09:10:46 +0000 2019,94703610,Congrats #Dreamers !!!! you got it! #5000min #countdown #hackatrain @imaginecc @4yfn_mwc #express2019 #dreamers pho� https://t.co/vRIu6XQvi8,en,Point,41.40266,2.19449,1a27537478dd8e38,None,ES,1,3,@4YFN_MWC,41.41174,2.215909,2,None
+
+1100051542097494021,Mon Feb 25 15:15:00 +0000 2019,392017282,How payments are made today and how they'll be in #4YFN @4YFN_MWC https://t.co/tKLzwRfvK3,en,None,None,None,07d9e05367886000,None,,0,2,@4YFN_MWC,41.41174,2.215909,2,None
+
+1097464898890752000,Mon Feb 18 11:56:36 +0000 2019,174249334,"En aquesta al�ada del carrer Fluvia volen posar una associaci� d c�nnabis, just al costat d�una zona infantil i un� https://t.co/xGJCR4qcSF",ca,None,None,None,07d9f2d008c81000,None,ES,1,0,@4YFN_MWC,41.41174,2.215909,2,None
+
+1100113972777361409,Mon Feb 25 19:23:04 +0000 2019,4897946789,@lukizzl @MercedesBenz @BrendonLeigh72 @MercedesAMGF1 @GSMA @4YFN_MWC @SIC_io @DaimlerTruckBus @haegele_markus� https://t.co/6kEszrp3Dr,en,None,None,None,1a27537478dd8e38,None,ES,11,19,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100331235136716800,Tue Feb 26 09:46:24 +0000 2019,74058043,#PSD2 #OpenBanking : The Elephant in the room #4yfn19 #mwc19 @4YFN_MWC with @polymath @StarlingBank @konsentus� https://t.co/7yfbw8ai0Q,en,None,None,None,1a27537478dd8e38,None,ES,0,2,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100329682241753088,Tue Feb 26 09:40:14 +0000 2019,717351069672726528,Our amazing pizza and sangria last night! Too good to stop and smile for a picture. #Barcelona #MWC19 #4YFN19� https://t.co/Tjx4M6c0Ok,en,None,None,None,1a27537478dd8e38,None,ES,1,1,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100325231133159425,Tue Feb 26 09:22:32 +0000 2019,3386189753,"�Para nosotros es importante estar aqu� para construir marca, tener visibilidad y encontrar partners�.� https://t.co/ND1BkjbiiL",es,None,None,None,07d9f3203b087000,None,ES,0,0,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100324113862852608,Tue Feb 26 09:18:06 +0000 2019,198458639,"Arrancamos la ma�ana hablando de #CorporateVenturing con @MartaAntunezBCN en el @4YFN_MWC, estrategias de innovaci� https://t.co/aIWUNzqKNH",es,None,None,None,1a27537478dd8e38,None,ES,1,1,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100309005380014080,Tue Feb 26 08:18:04 +0000 2019,1151791,Let�s start @4YFN_MWC Day 2 in legendary Camp Nou with forward-thinking entrepreneurs sharing vision on Diversity i� https://t.co/3bzc93ka5p,en,None,None,None,1a27537478dd8e38,None,ES,0,3,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100308934806683653,Tue Feb 26 08:17:47 +0000 2019,227661941,Join us in our Booth @4YFN_MWC to learn about our Start Up development program - Booth 114 https://t.co/PiA45wFne5,en,None,None,None,1a27537478dd8e38,None,ES,0,0,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100287893065646081,Tue Feb 26 06:54:10 +0000 2019,466447964,A punto de comenzar el segundo d�a en @4YFN_MWC #4yfn19 con una agenda llena de actividades #dayone https://t.co/Ex3UC4d9oo,es,None,None,None,1a27537478dd8e38,None,ES,0,3,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100286652906393602,Tue Feb 26 06:49:15 +0000 2019,26382995,"Whoa. Gotta admit. As much as I love the future and the future, past wearables, is implantables - I am still not re� https://t.co/M5HoWuFwL7",en,None,None,None,1a27537478dd8e38,None,ES,0,1,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100281301372940288,Tue Feb 26 06:27:59 +0000 2019,717637930827780096,"Apr�s un premier jour au @4yfn_mwc bien rempli, super visite et soir�e au @campnou_bcn https://t.co/QWXPjMctHy",fr,None,None,None,1a27537478dd8e38,None,ES,1,4,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100275458199891969,Tue Feb 26 06:04:46 +0000 2019,219698449,If you are at @4YFN_MWC you can join the #SocialNestXImpact Talk at 13:30 R2-5 BOOT where our Founder Margarita Alb� https://t.co/UfIBnVNDDe,en,None,None,None,1a27537478dd8e38,None,ES,3,8,@4YFN_MWC,41.385015,2.163252,2,None
+
+1100222324010352640,Tue Feb 26 02:33:37 +0000 2019,16076740,"#Biohacking on Stage, Live implant show! Welcome to the world of #transhumanism. Please come to booth K3.1 at� https://t.co/s06ciaIZ5Y",en,None,None,None,1a27537478dd8e38,None,ES,4,6,@4YFN_MWC,41.385015,2.163252,2,None
+
+1098905728612364288,Fri Feb 22 11:21:57 +0000 2019,857507259844263937,@TMBinfo @Fira_Barcelona @GSMA @4YFN_MWC Pero abra huelga de metro ONO?,es,None,None,None,0df96a5eace851e2,None,ES,0,0,@4YFN_MWC,41.451492,2.185391,2,None
